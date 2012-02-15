@@ -1,0 +1,64 @@
+---Description---
+
+A few people have wanted to import the parts into OPENscad but the files were not manifolded. Netfabb would not repair them correctly.
+
+I have gone through all the parts and corrected the meshes. Afterwards I ran them through Meshlab and then through Netfabb and then back through Meshlab again.
+
+I then made sheets for a Mendel size printer. (less than 200 x 200)
+I have provided the Blend file with the three sheets laid out in case you would like to rearrange them or remove any of the parts.The zip file contains all the parts for the Lathe and transmission individually. 
+
+Videos of rough cut tests (emebedded in comments as well)
+youtube.com/watch?v=VSuPAbLClPE
+youtube.com/watch?v=klVjdnjPjzY
+
+Video of first cutting test (embedded in comments as well)
+youtube.com/watch?v=_2z1gkRdGmA
+
+Video of first drill test (embedded in comments as well)
+youtube.com/watch?v=ueP7hwicZSs
+
+Video (embedded in comments as well)
+youtube.com/watch?v=4rrh6Pl4vow
+
+Changes made from the original.
+
+Turned hand crank for lead screw 90 degrees.
+
+Simplified main carriage. Removed quick release lever in favour of fixed nut.
+
+Added feet/guides to stabilize main carriage.
+
+Simplified transmission from 16 speed to 1 speed for the initial release.
+
+Abandoned original chuck in favour of:
+thingiverse.com/thing:9232
+thingiverse.com/thing:9179
+thingiverse.com/thing:5791
+
+Added star crank for tailstock.
+
+Added lock wheel to allow tailstock to be locked for drilling and to spin for use as a steady bearing.
+
+All Modelling done with Blender 2.5x
+
+------------------------------------------------------
+
+Tool Holders ----NEW---
+thingiverse.com/thing:9711 
+
+---Instructions---
+
+The holes for the bolts/threaded rod/guides will need to be drilled to fit the material available in your area.
+
+MY B.O.M. (Use what's available in your area)
+5/16" threaded rod for the axles and lead screws (should use 8mm)
+1/4" threaded rod for guides with 9/32" O.D. brass tube over them and 5/16" O.D. brass tube in the carriages themselves as bushing (they are marked with O.D. and have a .0011" wall thickness)
+12 - 608 bearings
+#10 - 3/4" Cap screws and nuts to assemble the Carriage
+20+ 5/16" nuts
+20+ 1/4" nuts
+2" - 1/8" s/s Tig welding rod and push clips for the gear leaver.
+Wood screws to mount the parts to base.
+Misc washers 
+
+
